@@ -31,14 +31,14 @@ class Client
      *
      * @var string
      */
-    protected $baseUrl = '';
+    protected $baseUrl = 'https://api.themoviedb.org/3/movie/550?api_key=fbfb5f942d36addacc3f134fe32359b8';
 
     /**
      * API key for thetvdb.com
      *
      * @var string
      */
-    protected $apiKey = '';
+    protected $apiKey = 'fbfb5f942d36addacc3f134fe32359b8';
 
     /**
      * Array of available mirrors
