@@ -31,7 +31,7 @@ class Client
      *
      * @var string
      */
-    protected $baseUrl = 'https://akuntest1000.github.io/durung/';
+    protected $baseUrl = '';
 
     /**
      * API key for thetvdb.com
