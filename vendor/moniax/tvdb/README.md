@@ -17,7 +17,7 @@ Usage:
 
 ```php
 use Moinax\TvDb\Client;
-$apiKey = 'YOURAPIKEY';
+$apiKey = 'fbfb5f942d36addacc3f134fe32359b8';
 
 $tvdb = new Client("https://thetvdb.com", $apiKey);
 $tvdb->getSerie(75710);
