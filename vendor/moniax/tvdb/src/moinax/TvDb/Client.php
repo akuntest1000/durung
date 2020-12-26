@@ -31,7 +31,7 @@ class Client
      *
      * @var string
      */
-    protected $baseUrl = 'https://api.themoviedb.org/3/movie/550?api_key=fbfb5f942d36addacc3f134fe32359b8';
+    protected $baseUrl = '';
 
     /**
      * API key for thetvdb.com
