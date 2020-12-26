@@ -31,7 +31,7 @@ class Client
      *
      * @var string
      */
-    protected $baseUrl = 'https://akuntest1000.github.io/durung/api/plex?token=fbfb5f942d36addacc3f134fe32359b8';
+    protected $baseUrl = 'https://akuntest1000.github.io/durung/';
 
     /**
      * API key for thetvdb.com
